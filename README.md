@@ -6,6 +6,9 @@ sch:
 # Guide:
 https://clevercreations.org/best-conveyor-belt-3d-printer/
 
+# make: Blackbelt 3D
+https://blackbelt-3d.com/
+
 # make: Creality
 make: Creality model: CR-30 https://www.creality3dofficial.com/products/cr-30-infinite-z-belt-3d-printer https://creality3d.shop/collections/cr-series/products/creality3d-cr-30-3dprintmill-3d-printer
 
