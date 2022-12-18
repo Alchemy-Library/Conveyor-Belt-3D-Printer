@@ -21,3 +21,4 @@ https://www.sainsmart.com/products/sainsmart-infi-20-belt-3d-printer-infinite-z
 # make: IdeaFormer
 - https://www.aliexpress.us/item/3256804679998447.html
 - https://www.ebay.com/itm/224780162374
+- https://www.amazon.com/dp/B09NX8ZQNY
